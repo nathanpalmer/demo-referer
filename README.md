@@ -1,4 +1,4 @@
 demo-referer
 ============
 
-[<img src="https://buildr.apsure.com/projects/status.png"/>](https://buildr.apsure.com/projects/view)
+[<img src="http://localhost:54777/projects/status.png"/>](http://localhost:54777/projects/view)
